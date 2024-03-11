@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"bybit-api": "^3.9.7",
+		"dotenv": "^16.4.5",
+		"node-telegram-bot-api": "^0.65.1",
+		"request": "^2.34",
+		"typescript": "*"
+	}
+}
